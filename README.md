@@ -1,2 +1,2 @@
 # QuickMaps
-A Fluent Design Maps application that is very basic
+A Fluent Design Maps application that is very basic. It services as a map viewer. It has a 3D rendering mode where you can see builings and terrain contours in 3 Dimensions. In addition, it can show your location. This app is very simple and has a gradient effect in the OOBE, the What's New prompt and the About Page. Feel free to modify it and add any improvements that you can to this application.
