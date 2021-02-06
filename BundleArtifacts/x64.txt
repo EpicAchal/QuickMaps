@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Achal\source\repos\Maps\winmaps\bin\x64\Debug\winmaps_1.1.5.0_x64_Debug.msix
+SymbolPackage=C:\Users\Achal\source\repos\Maps\winmaps\obj\x64\Debug\Symbols\winmaps_1.1.5.0_x64_Debug.appxsym

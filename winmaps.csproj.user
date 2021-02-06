@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Source>C:\Users\Achal\Pictures\abcd.png</Source>
+    <SmallTileSource>C:\Users\Achal\Pictures\abcd.png</SmallTileSource>
+    <MediumTileSource>C:\Users\Achal\Pictures\abcd.png</MediumTileSource>
+    <WideTileSource>C:\Users\Achal\Pictures\abcd.png</WideTileSource>
+    <LargeTileSource>C:\Users\Achal\Pictures\abcd.png</LargeTileSource>
+    <AppIconSource>C:\Users\Achal\Pictures\abcd.png</AppIconSource>
+    <SplashScreenSource>C:\Users\Achal\Pictures\abcd.png</SplashScreenSource>
+    <PackageLogoSource>C:\Users\Achal\Pictures\abcd.png</PackageLogoSource>
+    <BadgeLogoSource>C:\Users\Achal\Pictures\abcd.png</BadgeLogoSource>
+    <UapAppxPackageBuildMode>SideloadOnly</UapAppxPackageBuildMode>
+    <AppxShowAllApps>False</AppxShowAllApps>
+    <AppxBuildConfigurationSelection>x86|x64|arm</AppxBuildConfigurationSelection>
+    <PackageOptionalProjectsInIdeBuilds>False</PackageOptionalProjectsInIdeBuilds>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <DeviceId>30f105c9-681e-420b-a277-7c086ead8a4e</DeviceId>
+    <UseEmulator>true</UseEmulator>
+  </PropertyGroup>
+</Project>
